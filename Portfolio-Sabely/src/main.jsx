@@ -8,7 +8,6 @@ import Home from './componts/pages/Home';
 import Contact from './components/pages/Contact';
 import About from './components/pages/AboutMe';
 import Resume from './components/pages/Resume';
-import Projects from './components/pages/Projects';
 import ErrorPage from './components/pages/ErrorPage';
 
 const router = createBrowerRouter([
@@ -35,10 +34,6 @@ const router = createBrowerRouter([
     {
       path: 'contact',
       element: <Contact />,
-    },
-    {
-      path: 'projects',
-      element: <Projects />,
     },
     ],
   },
