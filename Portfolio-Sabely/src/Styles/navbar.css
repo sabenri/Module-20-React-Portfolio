@@ -1,0 +1,44 @@
+.navbar {
+    background-color: rgb(242, 198, 204);
+    padding: 1rem;
+    width: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 1000;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-sizing: border-box;
+}
+
+.navbar ul {
+    list-style-type: none;
+    display: flex;
+    gap: 1rem;
+    margin: 0;
+    padding: 0;
+}
+
+.navbar a {
+    color: aliceblue;
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+.navbar a:hover {
+    color: rgb(188, 213, 235);
+}
+.active-link {
+    color: aliceblue;
+    font-weight: bold;
+    border-bottom: 2px solid blue;
+}
+
+.right-links {
+    display: flex;
+    gap: 1rem;
+}
+
+.right-links li {
+    display: inline;
+}
