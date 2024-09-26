@@ -1,4 +1,4 @@
-# Module-20-React-Portfoli
+# Module-20-React-Portfolio
 
   ## Description 
  This is a personal portfolio website built using React. The website showcases my projects, skills, and experiences as a full-stack developer. It provides potential employers and collaborators with insight into my work and abilities.
