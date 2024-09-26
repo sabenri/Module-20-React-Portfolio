@@ -15,7 +15,7 @@
 }
 
 .form-header {
-    color: aliceblue;
+    color: rgb(135, 199, 255);
 }
 
 .wrapper {
@@ -41,7 +41,7 @@ textarea {
     background: transparent;
     border: none;
     outline: none;
-    color: rgb(151, 197, 237);
+    color: rgb(117, 191, 255);
 }
 
 textarea {
@@ -51,7 +51,7 @@ textarea {
 
 .input-field {
     position: relative;
-    border-bottom: 2px solid #ccc;
+    border-bottom: 2px solid #9ed5ff;
     margin: 15px 0;
 }
 

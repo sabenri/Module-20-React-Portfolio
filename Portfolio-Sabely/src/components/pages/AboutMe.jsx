@@ -1,12 +1,12 @@
 import React from "react";
-import image from '../../assets/'
 import'../../styles/style.css';
+import image from '../../assets/img.jpg';
 
 function AboutMe() {
     return (
         <div className="about-me-div">
             <div className="about-me-img">
-                <img src="" alt="" />
+            <img src={image} alt="Avatar" />
             </div>
             <div className="about-me-text">
                 <h3>Info About Me:</h3>

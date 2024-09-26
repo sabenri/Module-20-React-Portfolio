@@ -1,5 +1,5 @@
 .navbar {
-    background-color: rgb(242, 198, 204);
+    background-color: rgb(255, 215, 221);
     padding: 1rem;
     width: 100%;
     position: absolute;
@@ -17,7 +17,7 @@
     display: flex;
     gap: 1rem;
     margin: 0;
-    padding: 0;
+    padding: 6px;
 }
 
 .navbar a {
@@ -26,7 +26,7 @@
     transition: color 0.3s ease;
 }
 .navbar a:hover {
-    color: rgb(188, 213, 235);
+    color: rgb(133, 195, 250);
 }
 .active-link {
     color: aliceblue;
