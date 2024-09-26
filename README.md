@@ -7,6 +7,7 @@
   - [Installation](#Installation)
   - [Usage](#Usage)
   - [Features](#Features)
+  - [Demo](#Demo)
   - [Contributor](#Contributor)
   - [license](#license)
   - [questions](#questions)
@@ -52,6 +53,9 @@ Open your browser and visit http://localhost:3000.
 - 
 - **Contact**: A form to get in touch with me.
 
+  ##Demo
+  ![Portfolio-Demo](https://github.com/user-attachments/assets/6fe973f2-3359-47f7-955f-c87429337e11)
+
 
   ##Contributor
   there are no contributors to this project
@@ -62,4 +66,4 @@ Open your browser and visit http://localhost:3000.
   ## Questions 
   If you have any questions, Please contact me at Enriquezsabely@gmail.com.
   you can find my work at [GitHub](http://github.com/sabenri).
-![Portfolio-Demo](https://github.com/user-attachments/assets/6fe973f2-3359-47f7-955f-c87429337e11)
+
